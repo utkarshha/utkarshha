@@ -1,4 +1,4 @@
-**Hi there, I'm Utkarsha👋**
+## Hi there, I'm Utkarsha👋
 
 - 🎓 **Student at National Institute of Technology Goa**
 - 💻 **Learning Python and web development**
