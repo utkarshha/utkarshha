@@ -1,4 +1,4 @@
-Hi there, I'm Utkarsha👋
+**Hi there, I'm Utkarsha👋**
 
 - 🎓 **Student at National Institute of Technology Goa**
 - 💻 **Learning Python and web development**
@@ -7,7 +7,7 @@ Hi there, I'm Utkarsha👋
 - 📫 **Reach me at [gupta.utkarshaaa@gmail.com](gupta.utkarshaaa@gmail.com)**
 
 ## My Skills
-- **Languages**: Python
-- **Tools**: GitHub, Visual Studio Code
+- **Languages: Python**
+- **Tools: GitHub, Visual Studio Code**
 
 
