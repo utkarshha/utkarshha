@@ -10,7 +10,7 @@
       </ul>
       <h2>Random</h2>
       <ul>
-        <li>🚀 Looking to collaborate on interesting projects</li>
+        <li>🌱 Currently working on improving my skills in Figma and coding</li>
         <li>🎌 I love to watch movies and watch anime in my free time.</li>
       </ul>
     </td>
