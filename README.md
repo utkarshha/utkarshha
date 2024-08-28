@@ -11,7 +11,7 @@
       <h2>Random</h2>
       <ul>
         <li>🚀 Looking to collaborate on interesting projects</li>
-        <li>🎌 I love to watch movies, read manga's and manhwa's, watch anime in my free time.</li>
+        <li>🎌 I love to watch movies and watch anime in my free time.</li>
       </ul>
     </td>
   </tr>
