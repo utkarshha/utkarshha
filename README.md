@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src=file:///C:/Users/Utkarsha%20Gupta/Downloads/565edd_17152e29e0b7499f882e505cdc0e4c9a~mv2.webp alt="Your Image"/></td>
+    <td><img src=565edd_17152e29e0b7499f882e505cdc0e4c9a~mv2.webp alt="Your Image"/></td>
     <td>
       <h2>About Me</h2>
       <ul>
