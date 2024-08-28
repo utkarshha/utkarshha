@@ -5,7 +5,7 @@
       <h2>About Me</h2>
       <ul>
         <li>🎓 Student at National Institute of Technology Goa</li>
-        <li>💻 Learning Python and web development</li>
+        <li>💻  Exploring Python and HTML/CSS</li>
         <li>🚀 Looking to collaborate on interesting projects</li>
       </ul>
       <h2>Random</h2>
