@@ -7,7 +7,6 @@
         <li>🎓 Student at National Institute of Technology Goa</li>
         <li>💻 Learning Python and web development</li>
         <li>🚀 Looking to collaborate on interesting projects</li>
-        <li>📫 Reach me at[gupta.utkarshaaa@gmail.com](gupta.utkarshaaa@gmail.com)</li>
       </ul>
       <h2>Random</h2>
       <ul>
